@@ -1,4 +1,4 @@
 
 # my-private-server
-[SERVER](https://estates-precise-responsible-fri.trycloudflare.com )
+[SERVER](https://andorra-split-yard-dependent.trycloudflare.com )
 
