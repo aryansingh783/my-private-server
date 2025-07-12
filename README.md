@@ -1,4 +1,4 @@
 
 # my-private-server
-[SERVER](https://away-after-create-mice.trycloudflare.com)
+[SERVER](https://estates-precise-responsible-fri.trycloudflare.com )
 
