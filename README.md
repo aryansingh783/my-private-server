@@ -1,4 +1,4 @@
 
 # my-private-server
-[SERVER](https://andorra-split-yard-dependent.trycloudflare.com )
+[SERVER](https://chargers-belgium-increases-inbox.trycloudflare.com)
 
