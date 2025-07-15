@@ -1,4 +1,4 @@
 
 # my-private-server
-[SERVER](https://chargers-belgium-increases-inbox.trycloudflare.com)
+[SERVER](https://airplane-uw-strengthen-usgs.trycloudflare.com)
 
