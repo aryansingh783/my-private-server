@@ -1,4 +1,4 @@
 
 # my-private-server
-[SERVER](https://vehicles-lemon-knit-th.trycloudflare.com)
+[SERVER](https://gig-nov-victorian-built.trycloudflare.com)
 
