@@ -1,4 +1,4 @@
 
 # my-private-server
-[SERVER](https://hungarian-contract-para-criteria.trycloudflare.com)
+[SERVER](https://servers-blades-participated-lawyer.trycloudflare.com)
 
