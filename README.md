@@ -1,4 +1,4 @@
 
 # my-private-server
-[SERVER](https://renew-manufacturing-surfing-omaha.trycloudflare.com )
+[SERVER](https://scared-productive-specials-scores.trycloudflare.com)
 
