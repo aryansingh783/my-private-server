@@ -1,6 +1,6 @@
 
 # my-private-server
-[SERVER](https://directive-gene-incredible-arg.trycloudflare.com)
+[SERVER](https://breed-georgia-karl-brokers.trycloudflare.com/)
 -
 -
 # Main server
