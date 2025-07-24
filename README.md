@@ -1,6 +1,6 @@
 
 # my-private-server
-[SERVER](https://breed-georgia-karl-brokers.trycloudflare.com/)
+[SERVER](https://primarily-poly-remained-restrict.trycloudflare.com )
 -
 -
 # Main server
