@@ -1,6 +1,6 @@
 
 # my-private-server
-[SERVER](https://scotland-designer-produces-nuclear.trycloudflare.com)
+[SERVER](https://directive-gene-incredible-arg.trycloudflare.com)
 -
 -
 # Main server
