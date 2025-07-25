@@ -1,6 +1,6 @@
 
 # my-private-server
-[SERVER](https://primarily-poly-remained-restrict.trycloudflare.com )
+[SERVER](https://sage-accordingly-arrested-albert.trycloudflare.com )
 -
 -
 # Main server
