@@ -1,0 +1,4 @@
+import time
+for line in open("art.txt", encoding='utf-8'):
+    print(line.rstrip())
+    time.sleep(0.1)
