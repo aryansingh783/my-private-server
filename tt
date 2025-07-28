@@ -1,4 +1,7 @@
 import time
-for line in open("art.txt", encoding='utf-8'):
-    print(line.rstrip())
-    time.sleep(0.1)
+
+with open("tinar.py", encoding='utf-8') as file:
+    for line in file:
+        for char in line:
+            print(char, end='', flush=True)
+            time.sleep(0.01)
