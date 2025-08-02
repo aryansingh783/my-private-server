@@ -1,6 +1,6 @@
 
 # my-private-server
-[SERVER](https://twenty-infants-c-fall.trycloudflare.com)
+[SERVER](https://quantum-yet-dare-r.trycloudflare.com)
 -
 -
 # Main server
